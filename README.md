@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rakshana-09
-- 👀 I’m interested in IOT
-- 🌱 I’m currently learning B.tech
+- 👀 I’m interested in Machine learning and dbms
+- 🌱 I’m currently pursuing B.tech
 -
 
 <!---
